@@ -26,3 +26,6 @@ jobs:
         run: mdbook-toc --version
       - name: Show open-on-gh version
         run: mdbook-open-on-gh --version
+     
+      - name: build
+        run: mdbook build
