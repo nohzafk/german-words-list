@@ -1,0 +1,1 @@
+It seems like you have entered "all" which can have multiple meanings in English. Could you please specify in which context you would like to learn about the word "all" in German? For example, are you referring to it as a determiner, pronoun, adverb, or any specific idiomatic expression?

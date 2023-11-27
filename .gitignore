@@ -1,0 +1,4 @@
+book
+*.pdf
+.DS_Store
+.idea/

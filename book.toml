@@ -1,0 +1,6 @@
+[book]
+authors = ["nohzafk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "german words list"

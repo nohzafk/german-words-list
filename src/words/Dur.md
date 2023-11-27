@@ -1,0 +1,1 @@
+I'm sorry, "Dur" could be a mistyped or incomplete word. Could you please provide the complete word you'd like to learn about?

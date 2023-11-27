@@ -1,0 +1,1 @@
+I'm sorry, "an" is a very common word in German and it can have several meanings and uses depending on the context. Could you please provide more context or specify which meaning of "an" you would like to learn about? Thank you!

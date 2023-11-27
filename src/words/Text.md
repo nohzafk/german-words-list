@@ -1,0 +1,1 @@
+It seems like you entered "Text." Could you please provide more information or specify the word you would like to learn about in German? For example, "haus" or "kochen." Thank you!

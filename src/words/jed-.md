@@ -1,0 +1,1 @@
+I assume you meant "jeden." Is that correct? If not, please provide more context or clarify your input.

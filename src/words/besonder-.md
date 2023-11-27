@@ -1,0 +1,1 @@
+I'm sorry the word "besonder-" is incomplete. Could you please provide the full word you'd like to learn about? Thank you!

@@ -1,0 +1,1 @@
+It seems like your input got cut off. Could you please provide the full word or term you'd like to learn about?

@@ -1,0 +1,4 @@
+backoff
+openai
+beautifulsoup4
+tqdm

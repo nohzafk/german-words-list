@@ -1,0 +1,1 @@
+I assume you intended to input "letzt-" as the beginning of a word. Please provide the complete word you would like to learn about, and I will be happy to help you with its analysis.

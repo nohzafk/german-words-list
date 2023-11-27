@@ -1,0 +1,1 @@
+I'm sorry, "lang" could be a noun ("length") or an adjective ("long"). Which one do you want to know more about?

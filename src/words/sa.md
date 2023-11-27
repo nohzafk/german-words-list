@@ -1,0 +1,1 @@
+It seems like "sa" is not a complete German word. If you have a specific word in mind or if there's a different word you would like to learn about, please feel free to provide it, and I would be happy to assist you in learning more about it!
