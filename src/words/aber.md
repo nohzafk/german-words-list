@@ -16,5 +16,5 @@ The word "aber" and its English counterpart "but" have a similar function in con
 Associate "aber" with the English word "but," and remember its usage as indicating a contrast or contradiction.
 
 ## Additional Vocabulary
-Synonyms: jedoch, hingegen (however, on the other hand)
-Antonyms: und (and)
+- Synonyms: jedoch, hingegen (however, on the other hand)
+- Antonyms: und (and)
