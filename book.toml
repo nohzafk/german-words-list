@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "german words list"
+description = "a comprehensive list of the most frequently used German words, explained by ChatGPT"
+
+[output.html]
+google-analytics = "G-CHHJZWEBY7"
