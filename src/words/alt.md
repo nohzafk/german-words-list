@@ -21,6 +21,6 @@ Remember "alt" by associating it with the English word "old" to reinforce its me
 ## Additional Vocabulary
 Antonym: jung (young)
 
-Gender and Plural (for nouns)
-Gender: masculine
-Plural: Alten
+## Gender and Plural (for nouns)
+- Gender: masculine
+- Plural: Alten

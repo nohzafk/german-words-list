@@ -24,8 +24,8 @@ To remember the word "die Adresse," you can associate it with sending a letter (
 - die Stadt (the city)
 
 ## Gender and Plural (for nouns)
-Gender: feminine
-Plural: die Adressen
+- Gender: feminine
+- Plural: die Adressen
 
 ## Conjugation (for verbs)
 Not applicable for this noun.
