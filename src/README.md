@@ -2,7 +2,7 @@
 
 Here is a vocabulary list of German words.
 
-The word knowledge is extracted from the large language model 'GPT-3.5-turbo-1106'. Please note that there might be mistakes or misinformation.
+The word knowledge is mostly extracted from the large language model 'GPT-3.5-turbo-1106'. Please note that there might be mistakes or misinformation.
 
 # Word Lists
 
@@ -12,7 +12,7 @@ The word knowledge is extracted from the large language model 'GPT-3.5-turbo-110
 
 # Format
 
-each word is explained with following format
+Each word is explained with following format
 
 - Meaning and Usage
 - Linguistic Analysis
